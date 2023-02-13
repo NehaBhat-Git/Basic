@@ -14,6 +14,5 @@ public class ChallengeCovertPoundsToKiloGrams {
         float result = myKiloGrams * myPounds;
         System.out.print("Converted Value of Pound to KiloG is: "+result);
 
-        //
     }
 }
