@@ -6,7 +6,7 @@ These are the reserved keywords and can't be used as a keywords
 Size of Primitive Type
 DataType              Byte          Bits
 Byte                    1             8
-Boolean                 1             8
+Boolean                 -             1
 Short                   2             16
 int                     4             32
 float                   4             32
