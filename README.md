@@ -1,2 +1,2 @@
-# Udemy_Java
-Learning Udemy Course Of Java From Tim Buchalka
+# BasicJava
+Learning Some Basic java
